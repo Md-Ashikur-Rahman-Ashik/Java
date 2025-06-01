@@ -6,8 +6,11 @@ class Hello {
         // int num2 = 5;
         // int result = num1 + num2;
 
-        double num1 = 6.5;
+        // double num1 = 6.5;
 
         // System.out.println(result);
+
+        int num = 0b101;
+        System.out.println(num);
     }
 }
